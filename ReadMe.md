@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning DSA and working on projects<br><br>🌱 I’m currently learning: Rust and system design<br><br>💬 Ask me about: Linux, gaming setups, and Discord bots<br><br>⚡ Fun fact: I can debug faster than I reply to texts
+🔭 I’m currently learning DSA and working on projects<br><br>🌱 I’m currently in starting stage.<br><br>💬 Ask me about: Linux, gaming setups, and Discord bots<br><br>⚡ Fun fact: I can debug faster than I reply to texts
 
 
 ## 🌐 Socials:
