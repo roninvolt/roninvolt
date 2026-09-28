@@ -1,6 +1,6 @@
 # 🚀 How to Publish Your New GitHub Profile README
 
-Your profile README has been generated in [`README.md`](README.md) along with your custom high-tech hero banner in [`assets/banner.jpg`](assets/banner.jpg).
+Your profile README has been generated in [`README.md`](README.md) along with your custom high-tech hero banner in [`assets/banner.png`](assets/banner.png).
 
 Follow these quick steps to make it go live on your GitHub profile:
 
@@ -17,7 +17,7 @@ Follow these quick steps to make it go live on your GitHub profile:
 6. On the new repository page, click the pencil icon ✏️ to **Edit** the `README.md`.
 7. Replace the default text with the contents of your generated [`README.md`](README.md).
 8. To include the banner:
-   - Click **Add file** -> **Upload files**, upload [`assets/banner.jpg`](assets/banner.jpg) inside an `assets` folder (or simply drag and drop `banner.jpg`).
+   - Click **Add file** -> **Upload files**, upload [`assets/banner.png`](assets/banner.png) inside an `assets` folder (or simply drag and drop `banner.png`).
 9. Commit your changes. Visit your profile at [github.com/roninvolt](https://github.com/roninvolt) to see your new live profile!
 
 ---
