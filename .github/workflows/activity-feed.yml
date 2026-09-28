@@ -1,0 +1,24 @@
+name: Update Recent Activity Feed
+
+on:
+  schedule:
+    - cron: "0 */1 * * *" # Runs hourly
+  workflow_dispatch:      # Allows manual trigger anytime from GitHub Actions tab
+
+jobs:
+  update-activity:
+    name: Update README with recent GitHub activity
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Pull Recent GitHub Activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "chore(automated): update recent github activity [skip ci]"
+          MAX_LINES: 8

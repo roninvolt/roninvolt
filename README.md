@@ -120,7 +120,26 @@ identity:
     </tr>
   </table>
 
+  <br/>
+
+  <!-- 🐍 Contribution Snake Animation (Automated daily) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roninvolt/roninvolt/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roninvolt/roninvolt/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/roninvolt/roninvolt/output/github-contribution-grid-snake.svg" width="100%" style="max-width: 850px;" />
+  </picture>
+
 </div>
+
+---
+
+### ⚡ Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+1. 🚀 Pushed commits to [roninvolt/roninvolt](https://github.com/roninvolt/roninvolt)
+2. 🤖 Worked on [roninvolt/AI-Code-Reviewer](https://github.com/roninvolt/AI-Code-Reviewer)
+3. 🎙️ Refined deep learning pipeline in [roninvolt/Ai-Driven-Noise-Reduction](https://github.com/roninvolt/Ai-Driven-Noise-Reduction)
+<!--END_SECTION:activity-->
 
 ---
 
