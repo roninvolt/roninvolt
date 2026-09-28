@@ -2,7 +2,7 @@
 
   <!-- Hero Banner -->
   <a href="https://roninvolt.vercel.app/" target="_blank">
-    <img src="assets/banner.gif" alt="Volt's Animated Banner" width="100%" style="border-radius: 12px; max-width: 900px;" />
+    <img src="assets/banner.jpg" alt="Roninvolt Banner" width="100%" style="border-radius: 12px; max-width: 900px;" />
   </a>
 
   <br/><br/>
